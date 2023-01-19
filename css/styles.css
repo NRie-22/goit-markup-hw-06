@@ -873,13 +873,7 @@ background-color: brown;
  background-repeat: no-repeat;
  display: flex;
  align-items:center;
- /*justify-content: center;
- display: flex;
- align-items: center;
- position: relative;
- /*padding: 4px 3px;*/
-/*justify-content: center;
-align-items: center;*/
+ background-position: center;
 }
 .modal-form-check:focus + .modal-form-check-desc::before {
 outline: 2px solid rgba(33, 33, 233, 0.813);
